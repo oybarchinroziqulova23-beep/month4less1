@@ -1,0 +1,9 @@
+const PI = 3.141592653589793;
+const E = 2.718281828459045;
+const GOLDEN_RATIO = 1.618033988749895;
+
+module.exports = {
+  PI,
+  E,
+  GOLDEN_RATIO
+};
